@@ -1,0 +1,1 @@
+It is the test for day70 of python code courses on Udmey!
